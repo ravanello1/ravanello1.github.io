@@ -27,7 +27,9 @@
 }
 
 .footer-contato li a {
+  text-decoration: none;
   color: #ffffff;
+
 }
 
 .footer-copy {
