@@ -22,7 +22,7 @@
   height: 100px;
   background: url("../img/detalhe.svg") no-repeat center;
   position: absolute;
-  top: 0px;
+  top: -18px;
   left: -40px;
   z-index: -1;
 }
